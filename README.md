@@ -1,6 +1,6 @@
 # Glitch Stream
 
-Real-time glitch art generator with pixel sorting, RGB shifting, and JPEG compression artifacts.
+Real-time MJPEG stream with compression level control, pixel sorting, and other glitch effects.
 
 ## Browser Version (No Install)
 
