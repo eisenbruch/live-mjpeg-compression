@@ -1,12 +1,8 @@
-# Glitch Stream
+# MJPEG Compression and Glitch Effects Webcam Feed
 
 Real-time MJPEG webcam stream with compression level control, pixel sorting, and other glitch effects.
 
-<video width="100%" autoplay loop muted playsinline>
-  <source src="@media/demo-q.webm" type="video/webm">
-  <source src="@media/demo.mp4" type="video/mp4">
-  <img src="@media/demo.gif" alt="Demo">
-</video>
+![](media/demo.gif)
 
 ## Browser Version (No Install)
 
