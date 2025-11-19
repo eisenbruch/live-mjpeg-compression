@@ -2,6 +2,12 @@
 
 Real-time MJPEG webcam stream with compression level control, pixel sorting, and other glitch effects.
 
+<video width="100%" autoplay loop muted playsinline>
+  <source src="@media/demo-q.webm" type="video/webm">
+  <source src="@media/demo.mp4" type="video/mp4">
+  <img src="@media/demo.gif" alt="Demo">
+</video>
+
 ## Browser Version (No Install)
 
 Visit: **<a href="https://eisenbruch.github.io/vibe-coding-workshops/workshop-projects/2025-11-15-resistor/noah-eisenbruch-live-mjpeg-compression/index.html" target="_blank">Live Demo</a>**
