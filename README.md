@@ -16,8 +16,8 @@ Requires [Node.js](https://nodejs.org/) (v14 or higher)
 ### Setup
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo/live-mjpeg-compression
+git clone https://github.com/eisenbruch/live-mjpeg-compression.git
+cd live-mjpeg-compression
 npm install
 npm start
 ```
